@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2016",
+        "jsx": "preserve",
+        "experimentalDecorators": true,
+        "strictFunctionTypes": false,
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules",
+        
+    ]
+}
